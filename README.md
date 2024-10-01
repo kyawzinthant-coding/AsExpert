@@ -25,7 +25,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/asexpert.git
+   git clone https://github.com/kyawzinthant-coding/AsExpert.git
    ```
 
 2. Navigate to the project directory:
